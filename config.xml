@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<settings>
+	<colors>
+		<color id="1">
+			<name>Red</name>
+			<hex>FF0000</hex>
+		</color>
+		<color id="2">
+			<name>Blue</name>
+			<hex>0000FF</hex>
+		</color>
+		<color id="3">
+			<name>Green</name>
+			<hex>00AA00</hex>
+		</color>
+		<color>
+			<name>Black</name>
+			<hex>000000</hex>
+		</color>
+		<color>
+			<name>Pink</name>
+			<hex>FF69b4</hex>
+		</color>
+		<color>
+			<name>Lightgreen</name>
+			<hex>32ff05</hex>
+		</color>
+		<color>
+			<name>Purple</name>
+			<hex>551A8B</hex>
+		</color>
+		<color>
+			<name>Lightblue</name>
+			<hex>49b4d6</hex>
+		</color>
+		<color>
+			<name>Neon</name>
+			<hex>e1ff00</hex>
+		</color>
+	</colors>
+</settings>
